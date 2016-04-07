@@ -1,0 +1,27 @@
+{
+	"title": "TEXT LIST",
+	"link": "http://testing-ground.scraping.pro/textlist",
+	"other": {
+		"title": "TEXT LIST ",
+		"text_links": [
+			"http://testing-ground.scraping.pro/textlist?ver=1",
+			"http://testing-ground.scraping.pro/textlist?ver=2",
+			"http://testing-ground.scraping.pro/textlist?ver=3",
+			"http://testing-ground.scraping.pro/textlist?ver=4",
+			"http://testing-ground.scraping.pro/textlist?ver=5"
+		],
+		"text_links2": [
+			"http://testing-ground.scraping.pro/textlist?ver=1",
+			"http://testing-ground.scraping.pro/textlist?ver=2",
+			"http://testing-ground.scraping.pro/textlist?ver=3",
+			"http://testing-ground.scraping.pro/textlist?ver=4",
+			"http://testing-ground.scraping.pro/textlist?ver=5"
+		],
+		"text_list": [
+			{
+				"link": "http://testing-ground.scraping.pro/textlist?ver=1"
+			}
+		],
+		"content": "TEXT LIST (version 1)"
+	}
+}
